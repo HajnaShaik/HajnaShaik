@@ -1,6 +1,6 @@
 ![logo](https://github.com/HajnaShaik/HajnaShaik/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Hajna</h1>
-<h3 align="center">Passionate in frontend developement and Data Science</h3>
+<h3 align="center">A passionate UI/UX designer</h3>
 <img align="right" alt="coding" width ="400" src="https://learnzoid.com/assets/front/main/others/demo.gif">
 - 🔭 I’m currently working on [Weather forecast chrome extension](https://github.com/HajnaShaik/weather-forecast-api-ui)
 
